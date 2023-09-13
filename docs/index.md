@@ -2,7 +2,7 @@
 
 This will be a High Risk High Reward kill centered tournament involving essentially 2 rounds.
 
-## Team Responsibilies
+## Team Responsibilities
 
 All tournament participants are responsible to read and understand the rules before the tourney starts. All participants will have to abide by the rules, regardless of whether they have taken the time to read them ahead of the tourney. Regardless of circumstance, such as life or even the best intentions, the rules will be enforced. The intent of the rules and their enforcement is to prevent bickering, maintain the momentum of the tournament, and provide a fair playing field for all participating. Circumstances happen, don’t worry there will be more tournaments ahead of this one for you to try again.
 
