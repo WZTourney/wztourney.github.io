@@ -1,4 +1,4 @@
-# Clash of the Clans: WZ Quads Tournament
+# Clash of the Clans: WZ Quads Tourney
 
 This will be a High Risk High Reward kill centered tournament involving essentially 2 rounds.
 
