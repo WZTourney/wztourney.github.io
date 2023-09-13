@@ -63,7 +63,7 @@ If a game reset is required, then the team must follow the instructions in the [
 
 ### Game Reset Review Process
 
-- While reset for games will be allowed, if the reset is contested by another team an automatic review will be done by the Tourney Organizers and Arbitrator
+- While reseting for games will be allowed, if the reset is contested by another team an automatic review will be done by the Tourney Organizers and Arbitrator
 - If the review finds that the reset was not within the rules, then the resetting team will be given a game infraction,  the severity of the infraction will be up to the judgment of the Tourney Organizers
   - Penalty for infraction examples:
     - A deduction of xxx points from the total team score
