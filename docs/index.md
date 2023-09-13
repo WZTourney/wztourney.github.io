@@ -13,10 +13,9 @@ All tournament participants are responsible to read and understand the rules bef
 
 ## Tournament Run Dates
 
-09/12 - 9/22
-**can be subject to extension in event of player scheduling conflict a replacement player may be used, detail TBD.**
+09/12 - 9/22 **can be subject to extension in event of player scheduling conflict a replacement player may be used, detail TBD.**
 
-**Teams:**
+### Teams
 
 - VCC - Bok (captain), Lorax, Chowder, Skeebs
 - ACC - Mush (captain), Shawny, Oat, Manoof
