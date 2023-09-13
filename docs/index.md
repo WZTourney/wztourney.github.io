@@ -1,4 +1,4 @@
-# Clash of the Clans: WZ Tourney #003
+# WZ Tourney #003: Clash of the Clans
 
 This will be a High Risk High Reward kill centered tournament involving essentially 2 rounds.
 
