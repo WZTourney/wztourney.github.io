@@ -1,6 +1,6 @@
-# WZ Tourney #003: Clash of the Clans
+# WZ Tourney #004: The Tourney No One Wanted
 
-This will be a High Risk High Reward kill centered tournament involving essentially 2 rounds.
+This will be a double elimination tournament where both kills and placement will impact your outcome. This tournament will allow for a variety of playstyles to succeed. The goal of the tourney is to score points, not just kills.
 
 ## Team Responsibilities
 
@@ -10,23 +10,49 @@ All tournament participants are responsible to read and understand the rules bef
 
 - Lorax
 - Shawny
+- Chowder
 
 ## Tournament Run Dates
 
-09/12 - 9/22 **can be subject to extension in event of player scheduling conflict a replacement player may be used, detail TBD.**
+01/10 - 01/31
 
 ### Teams
 
-- VCC - Bok (captain), Lorax, Chowder, Skeebs
-- ACC - Mush (captain), Shawny, Oat, Manoof
-- LCC (Lone Wolves) - Hotel(captain), Warrior, Riaz, Jabz
+- Team Warrior - Warrior, Shawn, Manoof
+- Team Oat - Oat, Mush, Skeebs
+- Team  Chowder - Chowder, Siddique, Jabbz
+- Team RJCC - Riaz, Lorax, Hotel
 
-## Tournament Format
+## Tournament Results
 
-- Each team will play 6 streamed games.
-- Compiled score of all six games will constitute your final score. There will be no throw away games, every game counts.
-- Highest score of the 3 teams moves on to final round. Other 2 teams will compete with one another in loser bracket.
-- Highest compiled score in 3 streamed games wins losers bracket and competes against #1 ranked team in final 6 game competition.
+<iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
+
+## Tournament Basic Rules
+
+### First Round
+
+- Each team will play 6 streamed games
+- Compiled score of all 6 games will constitute your final score. There will be no throw away games, every game counts.
+
+### Winner's Finals
+
+- Each team will play 3 streamed games
+- Compiled score of all 3 games will constitute your final score. There will be no throw away games, every game counts.
+
+### Loser's Round 1
+
+- Each team will play 3 streamed games
+- Compiled score of all 3 games will constitute your final score. There will be no throw away games, every game counts.
+
+### Loser's Finals
+
+- Each team will play 3 streamed games
+- Compiled score of all  3 games will constitute your final score. There will be no throw away games, every game counts.
+
+### Grand Finals
+
+- Each team will play 6 streamed games
+- Compiled score of all 6 games will constitute your final score. There will be no throw away games, every game counts.
 
 ## Tournament Scoring System
 
@@ -36,9 +62,38 @@ All tournament participants are responsible to read and understand the rules bef
 
 ### Game Placement Bonus
 
-- 2nd place = 5 point bonus (at least 2 players on team must be alive at time of
-- 2nd place finish in order for bonus points to be awarded to team)
-- 1st place = 20 point bonus
+- 1st = 10 Points
+- 2nd = 5 Points
+- 3rd = 3 Points
+- 4th =  2 Points
+- 5th = 1 Point
+
+## Tournament Format
+
+A double-elimination bracket is a tournament format where each team must lose two rounds before being eliminated from the competition. It provides a second chance for teams or individuals who lose in the early rounds.
+
+Here's a basic explanation of how a double-elimination bracket works:
+
+1. **Initial Matches:**
+   - The tournament begins with all participants or teams placed in the first round of the winners' bracket.
+   - Winners of these matches move forward in the winners' bracket, while the losers drop down to the losers' bracket.
+
+2. **Winners' Bracket:**
+   - Participants who continue winning in the winners' bracket progress further towards the final rounds.
+   - As long as a team or individual keeps winning in the winners' bracket, they stay in that bracket.
+
+3. **Losers' Bracket:**
+   - Teams or individuals who lose in the winners' bracket drop down to the losers' bracket.
+   - In the losers' bracket, participants have a chance to continue in the tournament. However, a second loss in the losers' bracket results in elimination.
+
+4. **Rejoining the Winners' Bracket:**
+   - The winners of matches in the losers' bracket may eventually make their way back to the winners' bracket if they keep winning.
+
+5. **Finals:**
+   - The final match is typically between the last remaining undefeated participant from the winners' bracket and the winner of the losers' bracket.
+   - If the undefeated participant wins, they are the overall winner. If the winner of the losers' bracket wins, a final "championship" match may occur to determine the ultimate winner.
+
+The double-elimination format is favored because it offers a fairer chance for participants. A single loss doesn't immediately eliminate a team or individual, giving them an opportunity to recover and potentially win the entire tournament. It also helps ensure that the overall winner has demonstrated consistent performance throughout the competition.
 
 ## Tournament Requirements
 
@@ -49,7 +104,7 @@ All tournament participants are responsible to read and understand the rules bef
 - Team captain is responsible for announcing start/stop of games in WZ chat.
 - All scores must be submitted to website in a timely manner for tracking purposes.
 - All games must be played within the window of 5pm-5am (non bot hours).
-- All games must be Al Mazarah map. Vondel map will not be counted.
+- All games must be Urzkistan map. Vondel map will not be counted.
 - Cheating allegations and system errors (e.g. internet issues, family obligations disrupting game sets) will be reviewed by committee of 3 individuals (2 tournament moderators and 1 designated captain randomly selected from an opposing team not associated with the team under review).
 
 ### Scenarios for Resetting Game

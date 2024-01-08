@@ -1,1 +1,18 @@
 site_name: xCC Warzone Tourney
+site_url: https://www.wztourney.com
+site_description: Warzone Tourney
+site_author: wztourney
+
+# repo_url: https://github.com/wztourney/wztourney.github.io
+
+markdown_extensions:
+  - tables
+
+theme:
+  name: 'mkdocs'
+  palette:
+    scheme: 'slate'
+  # language: 'en'
+  # features:
+  #   - search.simple
+
