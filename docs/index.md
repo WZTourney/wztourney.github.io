@@ -1,14 +1,5 @@
 # WZ Tourney #004: The Tourney No One Wanted
 
-This will be a double elimination tournament where both kills and placement will impact your outcome. This tournament will allow for a variety of playstyles to succeed. The goal of the tourney is to score points, not just kills.
-
-- [Details about tourney format](./Tourney%20Details/format.md)
-- [Details about tourney requirements](./Tourney%20Details/requirements.md)
-
-## Tournament Run Dates
-
-01/10 - 01/31
-
 ## Tournament Results
 
 <iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
@@ -19,6 +10,17 @@ This will be a double elimination tournament where both kills and placement will
 - Team Oat - Oat, Mush, Skeebs
 - Team  Chowder - Chowder, Siddique, Jabbz
 - Team RJCC - Riaz, Lorax, Hotel
+
+## Tournament Run Dates
+
+01/10 - 01/31
+
+## Tournament Format
+
+This will be a double elimination tournament where both kills and placement will impact your outcome. This tournament will allow for a variety of playstyles to succeed. The goal of the tourney is to score points, not just kills.
+
+- [Details about tourney format](./Tourney%20Details/format.md)
+- [Details about tourney requirements](./Tourney%20Details/requirements.md)
 
 ## Tournament Basic Rules
 
