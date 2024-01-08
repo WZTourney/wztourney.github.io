@@ -1,5 +1,9 @@
 # WZ Tourney #004: The Tourney No One Wanted
 
+## Submit Your Score
+
+[Tourney Score Submission](https://bit.ly/wztourney)
+
 ## Tournament Results
 
 <iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
