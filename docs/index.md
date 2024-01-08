@@ -12,8 +12,8 @@
 
 - Team Warrior - Warrior, Shawn, Manoof
 - Team Oat - Oat, Mush, Skeebs
-- Team  Chowder - Chowder, Siddique, Jabbz
-- Team RJCC - Riaz, Lorax, Hotel
+- Team  Chowder - Chowder, Lorax, Jabbz
+- Team RJCC - Riaz, Siddique, Hotel
 
 ## Tournament Run Dates
 
