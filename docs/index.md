@@ -19,6 +19,8 @@
 
 01/10 - 01/31
 
+- **First Round:** Wednesday, Jan 10 - Wednesday, Jan 17th
+
 ## Tournament Format
 
 This will be a double elimination tournament where both kills and placement will impact your outcome. This tournament will allow for a variety of playstyles to succeed. The goal of the tourney is to score points, not just kills.
