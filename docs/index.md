@@ -2,7 +2,7 @@
 
 ## Submit Your Score
 
-[Tourney Score Submission](https://bit.ly/wztourney)
+[Submit Tourney Scores](https://bit.ly/wztourney)
 
 ## Tournament Results
 
