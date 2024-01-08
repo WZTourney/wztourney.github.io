@@ -2,19 +2,16 @@
 
 This will be a double elimination tournament where both kills and placement will impact your outcome. This tournament will allow for a variety of playstyles to succeed. The goal of the tourney is to score points, not just kills.
 
-## Team Responsibilities
-
-All tournament participants are responsible to read and understand the rules before the tourney starts. All participants will have to abide by the rules, regardless of whether they have taken the time to read them ahead of the tourney. Regardless of circumstance, such as life or even the best intentions, the rules will be enforced. The intent of the rules and their enforcement is to prevent bickering, maintain the momentum of the tournament, and provide a fair playing field for all participating. Circumstances happen, don’t worry there will be more tournaments ahead of this one for you to try again.
-
-## Tournament Moderators
-
-- Lorax
-- Shawny
-- Chowder
+- [Details about tourney format](./Tourney%20Details/format.md)
+- [Details about tourney requirements](./Tourney%20Details/requirements.md)
 
 ## Tournament Run Dates
 
 01/10 - 01/31
+
+## Tournament Results
+
+<iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
 
 ### Teams
 
@@ -22,10 +19,6 @@ All tournament participants are responsible to read and understand the rules bef
 - Team Oat - Oat, Mush, Skeebs
 - Team  Chowder - Chowder, Siddique, Jabbz
 - Team RJCC - Riaz, Lorax, Hotel
-
-## Tournament Results
-
-<iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
 
 ## Tournament Basic Rules
 
@@ -67,6 +60,18 @@ All tournament participants are responsible to read and understand the rules bef
 - 3rd = 3 Points
 - 4th =  2 Points
 - 5th = 1 Point
+
+## Team Responsibilities
+
+All tournament participants are responsible to read and understand the rules before the tourney starts. All participants will have to abide by the rules, regardless of whether they have taken the time to read them ahead of the tourney. Regardless of circumstance, such as life or even the best intentions, the rules will be enforced. The intent of the rules and their enforcement is to prevent bickering, maintain the momentum of the tournament, and provide a fair playing field for all participating. Circumstances happen, don’t worry there will be more tournaments ahead of this one for you to try again.
+
+## Tournament Moderators
+
+- Lorax
+- Shawny
+- Chowder
+
+
 
 ---
 
