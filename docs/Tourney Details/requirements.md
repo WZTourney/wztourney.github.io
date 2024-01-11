@@ -2,7 +2,8 @@
 
 ## Game Requirements
 
-- All games must be streamed and available for later viewing
+- All games must be streamed and available for later viewing.
+- All audio from each team member should be included in the streamed games.
 - Games do **NOT** have to be played in a row. There is no minimum set game requirement. Announcement of game session start and game session stoppage must be made in the chat along with corresponding submission of scores in the chat for cross reference.
 - Team captain is responsible for announcing start/stop of games in WZ chat.
 - All scores must be submitted to website in a timely manner for tracking purposes.
