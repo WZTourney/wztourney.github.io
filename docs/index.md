@@ -4,6 +4,9 @@
 
 [Submit Tourney Scores](https://bit.ly/wztourney)
 
+## Tournament Individual Stats
+[WZ Tourney Stats](https://bit.ly/wztourneystats)
+
 ## Tournament Results
 
 <iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
