@@ -22,7 +22,8 @@
 
 01/10 - 01/31
 
-- **First Round:** Wednesday, Jan 10 - Wednesday, Jan 17th
+- **COMPLETED** First Round: Wednesday, Jan 10th - ~~Wednesday, Jan 17th~~ Sunday, Jan 14th
+- **Second Round:** Wednesday, Jan 17th - Wednesday, Jan 24th
 
 ## Tournament Format
 
