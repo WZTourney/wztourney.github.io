@@ -1,4 +1,4 @@
-# WZ Tourney #5: The Kill List Invitational
+# World Series of Warzone Dads: The Kill List Invitational
 
 <div align="center">
   <img src="../assets/banner.jpeg">
