@@ -17,13 +17,17 @@
 
 ### Teams
 
-Teams will be a set of trio. Initially, the team will be put together by tournament coordinators. But the duo teammates will have an opportunity to choose their third from the Mercenary List.
+Teams will be a set of trio. Initially, the team will be put together by participants, they will self form as duos. And then the duo teammates will have an opportunity to choose their third from the Mercenary List.
 
-- Team Jabz - Jabz, Lorax
-- Team Manoof - Manoof, Oat
-- Team Skeebs - Skeebs, Chowder
-- Team Bok - Hotel, Bok
-- Team Z - **TBD**
+Team Pool:
+
+- Chowder
+- Bok
+- Skeebs
+- Manoof
+- Ibu
+- Jabz
+- Oat
 
 ## Mercenary Selection List
 
@@ -38,12 +42,12 @@ The list is as follows:
 - Mushdawg
 - Shawny
 - Riaz 
-- Hell4Warrior
-- Iboo
+- Warrior
+- Hamza
 
-These five Mercenaries will be selected by draft. Date of draft will coincide with date of NFL draft 4/23. 
+These five Mercenaries will be selected by draft. Date of draft is **TBD**. 
 
-The remainder of you Grunts will be required to pair up as duos of your own choosing and submit their team name to tournament coordinators by 0100 4/23/25
+The remainder of you Grunts will be required to pair up as duos of your own choosing and submit their team name to tournament coordinators by  **TBD**.
 
 ## Tournament Run Dates
 
