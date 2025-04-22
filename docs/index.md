@@ -1,13 +1,17 @@
 # WZ Tourney #5: The Kill List Invitational
+<div align="center">
+  <img src="../assets/banner.jpeg" alt="description">
+</div>
+<!--
+## Submit Your Score
+[Submit Tourney Scores](https://bit.ly/wztourney)
 
-// ## Submit Your Score
-// [Submit Tourney Scores](https://bit.ly/wztourney)
+## Tournament Individual Stats
+[WZ Tourney Stats](https://bit.ly/wztourneystats)
 
-// ## Tournament Individual Stats
-// [WZ Tourney Stats](https://bit.ly/wztourneystats)
-
-// ## Tournament Results
-// <iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
+## Tournament Results
+<iframe src="https://brackethq.com/b/2ywub/embed/" width="100%" height="550" frameborder="0"></iframe>
+-->
 
 ### Teams
 
@@ -34,10 +38,11 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 ## Tournament Run Dates
 
 **TBD**
-// 01/10 - 01/31
+<!-- 01/10 - 01/31
 
-// - **COMPLETED** First Round: Wednesday, Jan 10th - ~~Wednesday, Jan 17th~~ Sunday, Jan 14th
-// - **Second Round:** Wednesday, Jan 17th - Wednesday, Jan 24th
+- **COMPLETED** First Round: Wednesday, Jan 10th - ~~Wednesday, Jan 17th~~ Sunday, Jan 14th
+- **Second Round:** Wednesday, Jan 17th - Wednesday, Jan 24th
+-->
 
 ## Tournament Format
 
