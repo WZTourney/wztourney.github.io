@@ -34,6 +34,7 @@ Teams will be a set of trio. Initially, the team will be put together by tournam
 The following players have been labeled as Mercenaries - elite killers selected by the tournament coordinators based on a number of factors including aggressive play style, past tournament kill totals, and past tournament wins.
 
 The list is as follows:
+
 - Mushdawg
 - Shawny
 - Riaz 
