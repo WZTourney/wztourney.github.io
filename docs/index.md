@@ -63,8 +63,6 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 - [Details about tourney format](./Tourney%20Details/format.md)
 - [Details about tourney requirements](./Tourney%20Details/requirements.md)
 
-## Tournament Basic Rules
-
 ### First Round
 
 - Best 8 out of 12 games
