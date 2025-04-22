@@ -1,26 +1,21 @@
 # Tournament Format
 
-A double-elimination bracket is a tournament format where each team must lose two rounds before being eliminated from the competition. It provides a second chance for teams or individuals who lose in the early rounds.
+## First Round
 
-Here's a basic explanation of how a double-elimination bracket works:
+- Best 8 out of 12 games.
+- A minimum of 4 games per session must be played at time of team announcing their runs to reduce lobby manipulation and team stalling and ensure proper flow of the tournament.  
+- Top 3 teams advance to next round. Top team will get a bye
 
-1. **Initial Matches:**
-   - The tournament begins with all participants or teams placed in the first round of the winners' bracket.
-   - Winners of these matches move forward in the winners' bracket, while the losers drop down to the losers' bracket.
+## Loser Play-in
 
-2. **Winners' Bracket:**
-   - Participants who continue winning in the winners' bracket progress further towards the final rounds.
-   - As long as a team or individual keeps winning in the winners' bracket, they stay in that bracket.
+- Losers bracket will be between 4th and 5th seed. Best score in 3 out of 4 games. 
 
-3. **Losers' Bracket:**
-   - Teams or individuals who lose in the winners' bracket drop down to the losers' bracket.
-   - In the losers' bracket, participants have a chance to continue in the tournament. However, a second loss in the losers' bracket results in elimination.
+## Second Round
 
-4. **Rejoining the Winners' Bracket:**
-   - The winners of matches in the losers' bracket may eventually make their way back to the winners' bracket if they keep winning.
+- #1 seed vs #4/5 seed — winner advances 
+- #2 seed vs #3 seed — winner advances 
 
-5. **Finals:**
-   - The final match is typically between the last remaining undefeated participant from the winners' bracket and the winner of the losers' bracket.
-   - If the undefeated participant wins, they are the overall winner. If the winner of the losers' bracket wins, a final "championship" match may occur to determine the ultimate winner.
+## Third Round
 
-The double-elimination format is favored because it offers a fairer chance for participants. A single loss doesn't immediately eliminate a team or individual, giving them an opportunity to recover and potentially win the entire tournament. It also helps ensure that the overall winner has demonstrated consistent performance throughout the competition.
+- Kill List Championship round 
+- Best 8 out of 12 games

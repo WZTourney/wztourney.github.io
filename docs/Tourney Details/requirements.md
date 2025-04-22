@@ -11,6 +11,27 @@
 - All games must be Urzkistan map. Vondel map will not be counted.
 - Cheating allegations and system errors (e.g. internet issues, family obligations disrupting game sets) will be reviewed by committee of 3 individuals (2 tournament moderators and 1 designated captain randomly selected from an opposing team not associated with the team under review).
 
+## Cheating
+
+- No reverse boosting, new accounts, or cheating will be tolerated
+- Panther strat aka shawnyblades strat aka AFK strat is banned 
+
+## Stream Sniping
+
+- Stream sniping is strictly prohibited. 
+- As with all cheat allegations moderators will review footage from both teams and if found guilty, offending team’s game will be forfeited and a -30 point penalty will be assessed and victimized team will get a re-do. Penalties may be adjusted by moderators
+
+## Exiting Games
+
+- Teams may exit pregame lobby without penalty.
+- Once game loads in teams cannot exit without penalty
+
+## Game playtime
+- Games may not be played between hours of 5am to 5pm
+
+## Stacking Bonuses
+- Bonuses can be stacked
+
 ## Scenarios for Resetting Game
 
 The following scenarios can constitute a reset of a game
