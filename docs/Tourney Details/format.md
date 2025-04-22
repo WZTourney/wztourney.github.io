@@ -12,8 +12,8 @@
 
 ## Second Round
 
-- #1 seed vs #4/5 seed — winner advances 
-- #2 seed vs #3 seed — winner advances 
+- 1 seed vs 4/5 seed — winner advances 
+- 2 seed vs 3 seed — winner advances 
 
 ## Third Round
 
