@@ -23,7 +23,7 @@ Teams will be a set of trio. Initially, the team will be put together by tournam
 - Team Manoof - Manoof, Oat
 - Team Skeebs - Skeebs, Chowder
 - Team Bok - Hotel, Bok
-- Team ZZZ - **TBD**
+- Team Z - **TBD**
 
 ## Mercenary Selection List
 
@@ -94,7 +94,7 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 
 **NOTE: Requires at least 2 members of team to be alive at time of placement with exception being a wz victory.**
 
-- 1st = 20 Points
+- 1st = 15 Points
 - 2nd = 5 Points
 - 3rd = 3 Points
 - 4th = 2 Points
@@ -105,6 +105,10 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 In an effort to make the tournament gameplay more interesting, engaging, compelling, and competitive we have designed additional ways to gain extra points to add to your teams scorecard.
 
 #### Contract Killer Bonus
+
+<div align="center">
+  <img src="../assets/contract-killer.jpeg">
+</div>
 
 Killing bounty contract will count as 3 points as opposed to a 1 point regular kill (bounties that are poached will not count)
 
@@ -119,7 +123,7 @@ Prior to start of game team may designate one of their players as a power player
 #### Frenemy Fire Bonus
 
 <div align="center">
-  <img src="../assets/frenemy.jpeg">
+  <img src="../assets/eilite.jpeg">
 </div>
 
 Keep your enemies close but your friends even closer. High risk, high reward bonus scoring.
