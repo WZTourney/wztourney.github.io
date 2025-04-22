@@ -1,7 +1,9 @@
 # WZ Tourney #5: The Kill List Invitational
+
 <div align="center">
-  <img src="../assets/banner.jpeg" alt="description">
+  <img src="../assets/images/banner.jpeg">
 </div>
+
 <!--
 ## Submit Your Score
 [Submit Tourney Scores](https://bit.ly/wztourney)
@@ -21,6 +23,10 @@
 - Team Bok - Hotel, Bok
 
 ## Mercenary Selection List
+
+<div align="center">
+  <img src="../assets/images/mercenary.jpeg">
+</div>
 
 The following players have been labeled as Mercenaries - elite killers selected by the tournament coordinators based on a number of factors including aggressive play style, past tournament kill totals, and past tournament wins.
 
@@ -97,9 +103,18 @@ In an effort to make the tournament gameplay more interesting, engaging, compell
 Killing bounty contract will count as 3 points as opposed to a 1 point regular kill (bounties that are poached will not count)
 
 #### Power Player
+
+<div align="center">
+  <img src="../assets/images/power-player.jpeg">
+</div>
+
 Prior to start of game team may designate one of their players as a power player. This players final point total will be x2. A player can only be designated twice in the entire tournament as the power player so strategize and use wisely.
 
 #### Frenemy Fire Bonus
+
+<div align="center">
+  <img src="../assets/images/frenemy.jpeg">
+</div>
 
 Keep your enemies close but your friends even closer. High risk, high reward bonus scoring.
 
