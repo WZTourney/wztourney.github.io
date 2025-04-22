@@ -103,7 +103,7 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 
 ### Bonus Points Scoring
 
-In an effort to make the tournament gameplay more interesting, engaging, compelling, and competitive we have designed additional ways to gain extra points to add to your teams scorecard.
+In an effort to make the tournament gameplay more interesting, engaging, compelling, and competitive we have designed additional ways to gain extra points to add to your teams scorecard. **Remember, bonuses can be stacked.**
 
 #### Contract Killer Bonus
 
