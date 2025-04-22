@@ -143,7 +143,11 @@ Teams are not obligated to coordinate drops or fights in synced games but this i
 
 Accidental syncs found by killing fellow tournament players will result into a default counted game for both teams automatically 
 
-Team wipe is defined as: 1) killing entire team at time of engagement (ie even if a squad member has gulag it will effectively be considered a team wipe) 2) sending last remaining player on squad to the gulag 3) true game ending team wipe.
+Team wipe is defined as:
+
+1. Killing entire team at time of engagement (ie even if a squad member has gulag)
+2. Sending last remaining player on squad to the gulag
+3. Game ending team wipe.
 
 ## Team Responsibilities
 
