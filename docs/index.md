@@ -1,4 +1,4 @@
-# World Series of Warzone Dads: The Kill List Invitational
+# WSOWD Season 1: The Kill List Invitational
 
 <div align="center">
   <img src="../assets/banner.jpeg">
