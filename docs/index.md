@@ -123,7 +123,7 @@ Prior to start of game team may designate one of their players as a power player
 #### Frenemy Fire Bonus
 
 <div align="center">
-  <img src="../assets/eilite.jpeg">
+  <img src="../assets/elite.jpeg">
 </div>
 
 Keep your enemies close but your friends even closer. High risk, high reward bonus scoring.
