@@ -23,6 +23,7 @@ Teams will be a set of trio. Initially, the team will be put together by tournam
 - Team Manoof - Manoof, Oat
 - Team Skeebs - Skeebs, Chowder
 - Team Bok - Hotel, Bok
+- Team ZZZ - **TBD**
 
 ## Mercenary Selection List
 
