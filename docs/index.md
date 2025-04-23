@@ -25,9 +25,10 @@ Team Pool:
 - Bok
 - Skeebs
 - Manoof
-- Ibu
+- Iboo
 - Jabz
 - Oat
+- Shawny
 
 ## Mercenary Selection List
 
@@ -40,7 +41,6 @@ The following players have been labeled as Mercenaries - elite killers selected 
 The list is as follows:
 
 - Mushdawg
-- Shawny
 - Riaz 
 - Warrior
 - Hamza
@@ -70,15 +70,16 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 - Top 3 teams advance to next round
 - Top team will get a bye
 
-### Loser Play-in
+<!-- ### Loser Play-in
 
 - Best score in 3 out of 4 games
 - Losers bracket will be between 4th and 5th seed
+-->
 
 ### Second Round
 
 - Best 8 out of 12 games
-- 1 seed vs 4/5 seed — winner advances 
+- 1 seed vs 4 seed — winner advances 
 - 2 seed vs 3 seed — winner advances 
 
 ### Third Round
