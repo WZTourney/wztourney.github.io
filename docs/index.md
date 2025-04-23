@@ -45,7 +45,7 @@ The list is as follows:
 - Warrior
 - Hamza
 
-These five Mercenaries will be selected by draft. Date of draft is **TBD**. 
+These Mercenaries will be selected by draft. Date of draft is **TBD**. 
 
 The remainder of you Grunts will be required to pair up as duos of your own choosing and submit their team name to tournament coordinators by  **TBD**.
 
@@ -67,8 +67,9 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 
 - Best 8 out of 12 games
 - A minimum of 4 games per session must be played at time of team announcing their runs to reduce lobby manipulation and team stalling and ensure proper flow of the tournament
-- Top 3 teams advance to next round
+<!-- - Top 3 teams advance to next round
 - Top team will get a bye
+-->
 
 <!-- ### Loser Play-in
 
