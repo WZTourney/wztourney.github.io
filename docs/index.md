@@ -14,9 +14,9 @@
 ## Tournament Results
 
 **Currently bracket will be deteremined by group stage round**
-<!--
+
+
 <iframe src="https://brackethq.com/b/owhmc/embed/" width="100%" height="550" frameborder="0"></iframe>
--->
 
 ### Teams
 
