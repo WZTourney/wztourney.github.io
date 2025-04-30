@@ -44,6 +44,7 @@ The list is as follows:
 - Riaz 
 - Warrior
 - Hamza
+- Shawn
 
 These Mercenaries will be selected by draft. Date of draft is Wednesday, April 30th. 
 
