@@ -8,19 +8,19 @@
 - Top team will get a bye
 -->
 
-## Play-in Round
+## Quarter-Finals
 
 - Losers bracket will be between 4th and 5th seed
 - Best score in 3 out of 4 games
 
 
-## First Round
+## Semi-Finals
 
 - Best 8 out of 12 games
 - 1 seed vs 4/5 seed — winner advances 
 - 2 seed vs 3 seed — winner advances 
 
-## Third Round
+## Finals
 
 - Best 8 out of 12 games
 - Kill List Championship round 
