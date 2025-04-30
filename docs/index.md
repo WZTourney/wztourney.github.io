@@ -13,7 +13,10 @@
 -->
 ## Tournament Results
 
+**Currently bracket will be deteremined by group stage round**
+<!--
 <iframe src="https://brackethq.com/b/owhmc/embed/" width="100%" height="550" frameborder="0"></iframe>
+-->
 
 ### Teams
 
@@ -21,14 +24,11 @@ Teams will be a set of trio. Initially, the team will be put together by partici
 
 Team Pool:
 
-- Chowder
-- Bok
-- Skeebs
-- Manoof
-- Iboo
-- Jabz
-- Oat
-- Shawny
+- The Tactical StethoScopes - Chowder/Shak
+- Albany United - Ausim/Manoof
+- Power Walkers - Oat/Iboo
+- The Raiders - Bok/Zidaan
+- The Odd Couple - Malik/Jabz
 
 ## Mercenary Selection List
 
@@ -63,7 +63,7 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 - [Details about tourney format](./Tourney%20Details/format.md)
 - [Details about tourney requirements](./Tourney%20Details/requirements.md)
 
-### First Round
+### Group Stage
 
 - Best 8 out of 12 games
 - A minimum of 4 games per session must be played at time of team announcing their runs to reduce lobby manipulation and team stalling and ensure proper flow of the tournament
@@ -71,16 +71,16 @@ The remainder of you Grunts will be required to pair up as duos of your own choo
 - Top team will get a bye
 -->
 
-<!-- ### Loser Play-in
+### Play-in Round
 
-- Best score in 3 out of 4 games
 - Losers bracket will be between 4th and 5th seed
--->
+- Best score in 3 out of 4 games
 
-### Second Round
+
+### First Round
 
 - Best 8 out of 12 games
-- 1 seed vs 4 seed — winner advances 
+- 1 seed vs 4/5 seed — winner advances 
 - 2 seed vs 3 seed — winner advances 
 
 ### Third Round
