@@ -72,7 +72,7 @@ These Mercenaries will be selected by draft. Date of draft is Wednesday, April 3
 
 ### Quarter-Finals
 
-- Losers bracket will be between 4th and 5th seed
+- Lowest placed teams, 4th and 5th seed, will go head to head to qualify for the semi-finals
 - Best score in 3 out of 4 games
 
 
