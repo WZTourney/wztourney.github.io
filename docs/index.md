@@ -45,9 +45,7 @@ The list is as follows:
 - Warrior
 - Hamza
 
-These Mercenaries will be selected by draft. Date of draft is **TBD**. 
-
-The remainder of you Grunts will be required to pair up as duos of your own choosing and submit their team name to tournament coordinators by  **TBD**.
+These Mercenaries will be selected by draft. Date of draft is Wednesday, April 30th. 
 
 ## Tournament Run Dates
 
