@@ -22,13 +22,13 @@
 
 Teams will be a set of trio. Initially, the team will be put together by participants, they will self form as duos. And then the duo teammates will have an opportunity to choose their third from the Mercenary List.
 
-Team Pool:
+Selected Teams:
 
-- The Tactical StethoScopes - Chowder/Shak
-- Albany United - Ausim/Manoof
-- Power Walkers - Oat/Iboo
-- The Raiders - Bok/Zidaan
-- The Odd Couple - Malik/Jabz
+- The Tactical StethoScopes - Chowder/Shak/Mush
+- Albany United - Ausim/Manoof/Shawn
+- Power Walkers - Oat/Iboo/Riaz
+- The Raiders - Bok/Zidaan/Hamza
+- The Odd Couple - Malik/Jabz/Warrior
 
 ## Mercenary Selection List
 
